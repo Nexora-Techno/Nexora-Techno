@@ -5,7 +5,7 @@
 </p><p align="center">
   An independent technology organization focused on engineering, innovation, open-source software, and building practical solutions for the future.
 </p><p align="center">
-  <img src="YOUR_ORGANIZATION_LOGO_URL" alt="Nexora-Techno Logo" width="180">
+  <img src="https://github.com/Nexora-Techno.png" alt="Nexora-Techno Logo" width="180">
 </p><p align="center">
   <a href="#our-mission">Mission</a> •
   <a href="#what-we-build">What We Build</a> •
